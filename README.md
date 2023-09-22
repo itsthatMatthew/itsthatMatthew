@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Matthew
+
+I'm just a regular dude from hungary, currently a computer engineering undergrad at BUTE.
+I't my 5th semester here, and I also do some tutoring for C and C++ courses.
 
 <!--
 **itsthatMatthew/itsthatMatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
